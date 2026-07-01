@@ -1,3 +1,4 @@
+#modificado por Nicolás Zalazar
 print("=================================")
 print("  Juego creado por: N. Zalazar y H. Hasi  ")
 print("=================================")
